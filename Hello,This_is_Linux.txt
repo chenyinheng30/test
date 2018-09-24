@@ -1,2 +1,4 @@
 Hello,This is Linux
 Hi,I'm Windows
+看起来一切顺利！！恭喜！！
+------------完成----------
